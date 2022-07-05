@@ -1,0 +1,5 @@
+numpy
+pika
+requests
+faker
+pytest
